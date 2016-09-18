@@ -10,6 +10,7 @@
     <sprite>sprites\spr_P2</sprite>
     <sprite>sprites\spr_bulletred</sprite>
     <sprite>sprites\spr_bulletblue</sprite>
+    <sprite>sprites\spr_deadplayer</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -18,6 +19,7 @@
     <object>objects\obj_p2</object>
     <object>objects\obj_bulletred</object>
     <object>objects\obj_bulletblue</object>
+    <object>objects\obj_deadplayer</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\Test</room>
