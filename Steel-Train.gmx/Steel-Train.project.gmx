@@ -8,13 +8,14 @@
   <sprites name="sprites">
     <sprite>sprites\spr_P1</sprite>
     <sprite>sprites\spr_P2</sprite>
-    <sprite>sprites\sprite2</sprite>
+    <sprite>sprites\spr_bullet</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\obj_p1</object>
     <object>objects\obj_p2</object>
+    <object>objects\obj_bullet</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\Test</room>
