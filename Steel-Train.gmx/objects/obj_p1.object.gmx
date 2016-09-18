@@ -113,7 +113,7 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>bullet = instance_create(x,y,obj_bullet);
+            <string>bullet = instance_create(x,y,obj_bulletred);
 bullet.direction = image_angle;
 bullet.image_angle = image_angle;
 bullet.speed = 15;
